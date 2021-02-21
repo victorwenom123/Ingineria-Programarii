@@ -1,0 +1,22 @@
+The Eagle named ...DefaultEagle... is found in cage 3, it is covered with feather color Brown, can see objects at a distance of 20000m
+can fly at an average speed of 60 Km/h, can reach an altitude of 1500 m, weights 5 Kg, has 2 and eats Meat
+
+The kangaroo named ...DefaultKangaroo... is found in cage 4 it is covered with Leather color Brown
+can run at an average speed of 30 Km/h, weights 80 Kg, has 2 and eats Herbivorous
+
+The Eagle named Ceavez is found in cage 3, it is covered with feather color Brown, can see objects at a distance of 20000m
+can fly at an average speed of 60 Km/h, can reach an altitude of 1500 m, weights 5 Kg, has 2 and eats Meat
+
+The white wolf named Colt-alb is found in cage 2 it is covered with Fur color White
+can run at an average speed of 17 Km/h, weights 12 Kg, has 4 and eats raw Meat
+
+The wolf named Colt-negru is found in cage 1 it is covered with leather color Grey
+can run at an average speed of 15 Km/h, weights 17 Kg, has 3legs and eats Meat
+
+The Shark named Nemo is found in cage 5 it is covered with Scaly color White
+can fly at an average speed of 30 Km/h, can reach a depth of 5000 m, weights 60 Kg, swims in salted water, and eats Meat
+
+The HammerShark named Bim is found in cage 7 it is covered with Scaly color blue
+can fly at an average speed of 30 Km/h, can reach a depth of 5000 m, weights 20 Kg, swims in salted water, and eats Meat
+
+20 kg blue hammershark
