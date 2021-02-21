@@ -1,4 +1,4 @@
-# Ingineria Programarii - Laborator 1; Andries Andrei, Stanciu Victor Nicolae
+# Ingineria Programarii - Laborator 1; Andrieș Andrei, Stanciu Victor Nicolae
 În programul nostru avem:
 
 Interfața "Animal", care este părintele tuturor claselor;
