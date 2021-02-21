@@ -11,7 +11,7 @@ Clasa "HammerShark", care moștenește atributele clasei "Shark;
 
 Clasa "Wolf", care moștenește atributele clasei abstracte "Mammal";
 
-Clasa "WhiteWolf", care moșteneste atributele clasei "Wolf";
+Clasa "WhiteWolf", care moștenește atributele clasei "Wolf";
 
 Clasa "Kangaroo", care moștenește atributele clasei abstracte "Mammal";
 
